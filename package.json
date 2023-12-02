@@ -1,15 +1,11 @@
 {
   "name": "zapatilllas",
   "version": "1.0.0",
-  "description": "Tienda de Zapatillas",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pablo Presas",
-  "license": "ISC",
-  "dependencies": {
-    "saa": "^1.0.0",
-    "sass": "^1.69.5"
-  }
+  "license": "ISC"
 }
