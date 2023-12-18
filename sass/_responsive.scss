@@ -1,0 +1,70 @@
+@media (max-width: 1200px) {
+  /*====Productos====*/
+
+  /*====Productos====*/
+}
+
+@media (max-width: 990px) {
+  /*====Header====*/
+
+  /*====Productos====*/
+    .col-md-3 {
+        width: 40% !important;
+    }
+
+  /*====footer====*/
+
+  .row {
+        flex-wrap: wrap;
+        align-items: flex-start; 
+        justify-content: space-between;
+    }
+
+    .col {
+        width: 30%; 
+        margin-bottom: 20px;
+    }
+
+    .col#company {
+        width: 100%; 
+        text-align: center; 
+    }
+
+    .form {
+        width: 100%; 
+        padding: 2rem 1rem;
+    }
+
+}
+
+@media (max-width: 760px) {
+
+    /*====Productos====*/
+    .col-md-3 {
+        width: 50% !important;
+    }
+  /*====footer====*/
+
+  .row {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .col {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .form {
+        padding: 2rem 1rem;
+    }
+}
+
+@media (max-width: 450px) {
+    /*====Productos====*/
+    .col-md-3 {
+        width: 70% !important;
+    }
+}
+
+    
